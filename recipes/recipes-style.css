@@ -8,8 +8,23 @@ h1 {
     font-family: 'Lobster', cursive;
 }
 
-li a{
+h2,h3{
+    font-family: 'Lobster', cursive;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    text-align:start;
+
+}
+
+p, li{
     font-family: 'Catamaran', sans-serif;
     color: black;
     font-size: 20px;
+    text-align:start;
+}
+p{
+    text-align: center;
 }
